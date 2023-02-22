@@ -1,0 +1,17 @@
+{
+  "name": "stack_and_queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gamaliel Mendez",
+  "license": "yes",
+  "private": false,
+  "scripts": {
+    "Queue_test": "node ./test/Queue_test.js",
+    "Stack_test": "node ./test/Stack_test.js",
+    "TaskQueue_test": "node ./test/TaskQueue_test.js",
+    "TaskStack_test": "node ./test/TaskStack_test.js"
+  },
+  "dependencies": {
+    "@gamalielmh921230/node_timer": "^1.0.13"
+  }
+}
