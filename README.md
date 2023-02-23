@@ -1,9 +1,11 @@
+![GitHub Sponsor](https://img.shields.io/github/sponsors/gamalielmendez?label=Sponsor&logo=GitHub)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/gamalielmendez)
 # stack_and_queue
 ### Es un paquete que contiene la deficiocion de las siguientes estructuras basicas:
-- **Queue:** *contiene la funcionalidad basica de una cola*
-- **TaskQueue:** *Extiende la clase **Queue** añadiendo un timer para realizar el procesamiento de los elementos de la cola automaticamente*
-- **Stack:** *contiene la funcionalidad basica de una pila*
-- **TaskStack:** *Extiende la clase **Stack** añadiendo un timer para realizar el procesamiento de los elementos de la pila automaticamente*
+- **Queue:** *contiene la funcionalidad básica de una cola*
+- **TaskQueue:** *Extiende la clase **Queue** añadiendo un timer para realizar el procesamiento de los elementos de la cola automáticamente*
+- **Stack:** *contiene la funcionalidad básica de una pila*
+- **TaskStack:** *Extiende la clase **Stack** añadiendo un timer para realizar el procesamiento de los elementos de la pila automáticamente*
 
 # Como se Instala
 *Usando npm*

@@ -1,10 +1,14 @@
 {
   "name": "stack_and_queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Gamaliel Mendez",
   "license": "yes",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamalielmendez/stack_and_queue.git"
+  },
   "scripts": {
     "Queue_test": "node ./test/Queue_test.js",
     "Stack_test": "node ./test/Stack_test.js",
@@ -13,5 +17,9 @@
   },
   "dependencies": {
     "@gamalielmh921230/node_timer": "^1.0.13"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/gamalielmendez/stack_and_queue/issues"
+  },
+  "homepage": "https://github.com/gamalielmendez/stack_and_queue#readme"
 }
