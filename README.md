@@ -10,11 +10,11 @@
 # Como se Instala
 *Usando npm*
 ```javascript 
-npm i node-fpdf
+npm i stack_and_queue
 ```` 
 *Usando yarn*
 ```javascript 
-yarn add node-fpdf
+yarn add stack_and_queue
 ````
 
 # Ejemplos
